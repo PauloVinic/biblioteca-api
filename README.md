@@ -134,3 +134,11 @@ O arquivo `docs/RELATÓRIO TÉCNICO.docx` foi mantido como backup editavel.
 ## Observacoes
 
 Esta entrega foi preparada para Java 21, PostgreSQL e Docker. A execucao com Docker usa o perfil `docker`, configurado para conectar a API ao servico `postgres` definido no `docker-compose.yml`.
+
+## Identificacao da entrega
+
+Aluno: Paulo Vinicius de Souza Martinez
+
+RM: RM360057
+
+Repositorio: https://github.com/PauloVinic/biblioteca-api
