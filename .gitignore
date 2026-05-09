@@ -1,0 +1,71 @@
+HELP.md
+
+### Build outputs ###
+target/
+build/
+coverage/
+*.log
+*.tmp
+*.temp
+*.bak
+*.swp
+*.swo
+*.pid
+hs_err_pid*
+replay_pid*
+!**/src/main/**/target/
+!**/src/test/**/target/
+
+### STS ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+.sts4-cache
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+
+### NetBeans ###
+/nbproject/private/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
+!**/src/main/**/build/
+!**/src/test/**/build/
+
+### VS Code ###
+.vscode/
+
+### OS files ###
+.DS_Store
+Thumbs.db
+
+### Local environment and secrets ###
+.env
+.env.*
+!.env.example
+*.key
+*.pem
+*.p12
+*.jks
+application-local.yml
+application-prod.yml
+
+### AI/internal context files ###
+CONTEXT.md
+PROJETO_CONTEXTO.md
+*CONTEXTO*.md
+*context*.md
+*_CONTEXT*.md
+.codex/
+.agents/
+.github/java-upgrade/
+rascunhos/
+drafts/
